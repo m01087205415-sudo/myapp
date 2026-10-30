@@ -1,6 +1,6 @@
 {
-  "name": "DocuPrompt Studio",
-  "description": "Professional Document Intelligence & Prompt Engineering Workbench. Craft structured prompts with document context, test variable injections, audit risks, extract JSON schemas, and compare model outputs.",
+  "name": "인사의 모든 것을 담다 | AI × HR INNOVATION",
+  "description": "건설회사 인사담당자가 AI 교육과 바이브 코딩으로 직접 제작한 인사총무 업무 도구 및 디지털 콘텐츠 포트폴리오",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
