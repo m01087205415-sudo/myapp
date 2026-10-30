@@ -1,0 +1,6 @@
+{
+  "name": "DocuPrompt Studio",
+  "description": "Professional Document Intelligence & Prompt Engineering Workbench. Craft structured prompts with document context, test variable injections, audit risks, extract JSON schemas, and compare model outputs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
